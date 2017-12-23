@@ -101,6 +101,7 @@ Main2Activity_.intent(this).mInfoStr("this is infoStr.").start(); // 带参数
 ```
 
 更多使用方法和方式请参考:
+
 [Cookbook](https://link.jianshu.com?t=https://github.com/excilys/androidannotations/wiki/Cookbook)   
 [AvailableAnnotations](https://link.jianshu.com?t=https://github.com/excilys/androidannotations/wiki/AvailableAnnotations)
 
